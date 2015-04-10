@@ -11,9 +11,9 @@ class foursquare
 	public $venue;
     public $date ="20141204";
 	//the application key
-	public $apiKey="GM300CHKRQX520QSYGND13J4ADKKHMTZOUHD4N5XNLCLWNT3";
+	public $apiKey="THE_API_KEY";
 	//the application secret password
-	public $apiSecret="BPPBK1OBXXOOUH4XUNO5YVGKWIKTCVM5FDEMSOWWZHHJYOAK";
+	public $apiSecret="THE_API_SECRET";
 	//Vaxjo's latitude
 	public $lat=56.8769;
 	//Vaxjo's longitude
